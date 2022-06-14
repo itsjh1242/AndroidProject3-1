@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/drawable/edittextresources.xml" value="0.2585" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_arrivalupdate.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_business.xml" value="0.3564102564102564" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_client_main.xml" value="0.33" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_client_store.xml" value="0.33" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_discountupdate.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_product_arrival.xml" value="0.25" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_product_discount.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_register.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_register_extra.xml" value="0.33" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/activity_store_data.xml" value="0.184375" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/listlayout.xml" value="0.5" />
+        <entry key="..\:/Users/itsjh/AndroidStudioProjects/myproject/app/src/main/res/layout/listlayout2.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
